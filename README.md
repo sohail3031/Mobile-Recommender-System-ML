@@ -5,3 +5,7 @@ This is a simple content-based **Movie Recommender System** built using **Python
 
 ## Deployed Application URL
 [https://movies-recommender-system-ml-l4fi5l308wl.streamlit.app/](https://mobile-recommender-system-ml-knvu2zmiud7bgg8nhyseqb.streamlit.app/)
+
+
+## Dataset Link
+https://www.kaggle.com/datasets/gyanprakashkushwaha/mobile-recommendation-system-dataset
